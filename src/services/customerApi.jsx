@@ -1,6 +1,6 @@
 import axios from "axios";
 import store from "../app/store";
-const backendUrl = "http://localhost:3000";
+const backendUrl = "http://67.205.129.7:3000";
 
 //converting above api call to async
 
